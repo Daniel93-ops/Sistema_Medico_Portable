@@ -1,0 +1,6 @@
+   # Base de datos local (contiene datos de pacientes)
+   citas_medicas.db
+
+   # Motor PHP portable: se descarga aparte (ver README)
+   php/*
+   !php/php.ini
